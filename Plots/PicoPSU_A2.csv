@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"CP_Radial_D5.0mm_P2.00mm";1;"1uF";;;
+2;"C2";"CP_Radial_D5.0mm_P2.00mm";1;"2.2uF";;;
+3;"C3, C4";"CP_Radial_D10.0mm_P5.00mm";2;"470uF";;;
+4;"D1";"LED_D3.0mm";1;"5V";;;
+5;"D2";"LED_D3.0mm";1;"12V";;;
+6;"D3";"LED_D3.0mm";1;"-12V";;;
+7;"D4";"LED_D3.0mm";1;"-5V";;;
+8;"D5";"D_SMA";1;"US1A";;;
+9;"F1";"Fuseholder_Blade_Mini_Keystone_3568";1;"5V";;;
+10;"F2";"Fuseholder_Blade_Mini_Keystone_3568";1;"12V";;;
+11;"J1";"Molex_Mini-Fit_Jr_5569-24A2_2x12_P4.20mm_Horizontal";1;"PICO PSU";;;
+12;"J2";"Molex_Mini-Fit_Jr_5566-06A_2x03_P4.20mm_Vertical";1;"APPLE MB";;;
+13;"R1, R4";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"330";;;
+14;"R2, R3";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"1K";;;
+15;"SW1";"PN12SHSA03QE";1;"POWER";;;
+16;"TP5";"TestPoint_Pad_D2.0mm";1;"ON";;;
+17;"U1";"TO-252-2";1;"MC79M05";;;
