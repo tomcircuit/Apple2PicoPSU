@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "local") (type "KiCad") (uri "C:/Users/lemenset/Personal/a2psu/local") (options "") (descr ""))
+	(lib (name "a2psu") (type "KiCad") (uri "C:/Users/lemenset/Personal/a2psu/local/a2psu.pretty") (options "") (descr ""))
+)
