@@ -50,5 +50,8 @@ It is this last point in particular that really drove me to re-engineer this con
 
 My project was executed in the very capable open-source and "completely free" KiCad 10.0 which is well supported by the usual Operating Systems suspects...
 
+Complete project writeup, including assembly instructions, can be found on Hackaday
+https://hackaday.io/project/205643-a-modern-psu-for-my-apple-e
+
 tomcircuit
 01-MAY-2026
