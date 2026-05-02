@@ -4,7 +4,7 @@
 Many vintage Apple(R) ][ and // series computers suffer from power supply failure. These computers were fitted with switching power supplies (SMPS) that, for the time, were notable for their lightweight, quiet, and efficient characteristics. Time, however, has not been kind to these supplies, which are vulnerable to aging. There is no drop-in replacment unit, so most enthusiasts are forced to either repair their supply or replace with a modern retrofit. This project is of the latter type, and my motivation was when my Apple //e computer's power supply emitted the dreaded "magic smoke" (AFTER a complete re-cap, mind you) and resisted my efforts at repair.
 
 First and foremost, this project is insprired by the "PicoRC" project family by DekuNukem, currently found here: https://github.com/dekuNukem/PicoRC
-Note that this project is licensed under MIT License terms:
+Note that that project is licensed under MIT License terms:
 
 ```
 MIT License
