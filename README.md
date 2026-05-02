@@ -41,7 +41,8 @@ The **PicoPSU** units that are aimed at Small Form Factor (SFF) PC's are an idea
 Like the PicoRC for the Apple, my Apple2PicoPSU provides a power switch, a 24-pin Molex connector for the PicoPSU, fuses for the +5V and +12V voltage rails, and a -5V regulator for the 'missing' rail. I adoped a similar "PCB-welded" construction of a back panel and circuit board, because it seemed like a very convenient way to satisfy the mechanical aspects.
 
 Improvements over the original PicoRC for the Apple are the following:
-* power switch suitable for switching the low-current PicoPSU enable 
+* power switch suitable for switching the low-current PicoPSU enable
+* the 7905 voltage regulator would benefit from some sort of heatsinking
 * LED for each voltage rail, visible from the outside of the case
 * copper tracks sized sufficiently for the anticipated current demand
 
